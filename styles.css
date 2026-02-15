@@ -171,12 +171,10 @@ article p {
   background-size: cover;
   justify-content: center;
   flex-direction: column;
-  align-items: center;
   background-repeat: no-repeat;
 
   text-align: center;
   display: flex;
-  justify-content: center;
 }
 
 .image-box:hover {
